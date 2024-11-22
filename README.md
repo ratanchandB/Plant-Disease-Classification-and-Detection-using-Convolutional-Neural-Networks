@@ -4,3 +4,8 @@ Plant Disease Classification and Detection using Convolutional Neural Networks (
 ## Overview
 
 This project leverages the power of Convolutional Neural Networks (CNNs) for automated plant disease detection and classification based on leaf images. The system is designed to assist farmers, agronomists, and agricultural researchers by providing an efficient tool for early disease diagnosis, enabling timely interventions to prevent crop loss and promote sustainable agriculture.
+
+## Dataset
+
+The project uses the New Plant Diseases Dataset from Kaggle. This dataset comprises labeled images of healthy and diseased plant leaves covering a variety of plant species and diseases.
+[DataSet](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
