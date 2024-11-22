@@ -9,3 +9,39 @@ This project leverages the power of Convolutional Neural Networks (CNNs) for aut
 
 The project uses the New Plant Diseases Dataset from Kaggle. This dataset comprises labeled images of healthy and diseased plant leaves covering a variety of plant species and diseases.
 [DataSet](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
+## Tools and Technologies
+
+**Python**: Primary programming language.
+**TensorFlow and Keras**: For building, training, and deploying the CNN model.
+**NumPy and Pandas**: For data handling and preprocessing.
+**Matplotlib and Seaborn**: For visualizing data distribution and model performance.
+**Jupyter Notebook**: Interactive environment for coding and documenting results.
+
+## CNN Architecture
+
+The model employs a deep CNN with skip connections for improved performance. Key components include:
+
+The different layers used in this model are as follows:
+
+-**Input
+Depthwise Convolution 2D
+Convolution 2D
+Max Pooling 2D
+Global Average Pooling 2D
+Concatenation
+Dropout
+Dense**
+
+### Callbacks
+
+**Early Stopping**: Prevents overfitting by halting training when validation performance stops improving.
+**TensorBoard**: Tracks training metrics for analysis.
+
+## Model Evaluation
+
+Accuracy: Achieved a high classification accuracy on test data.
+
+Loss: Minimized during training and validation.
+
+Confusion Matrix: Visualized for performance assessment across classes.
