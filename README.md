@@ -13,9 +13,13 @@ The project uses the New Plant Diseases Dataset from Kaggle. This dataset compri
 ## Tools and Technologies
 
 **Python**: Primary programming language.
+
 **TensorFlow and Keras**: For building, training, and deploying the CNN model.
+
 **NumPy and Pandas**: For data handling and preprocessing.
+
 **Matplotlib and Seaborn**: For visualizing data distribution and model performance.
+
 **Jupyter Notebook**: Interactive environment for coding and documenting results.
 
 ## CNN Architecture
@@ -53,6 +57,7 @@ The different layers used in this model are as follows:
 ## Model Evaluation
 
 **Accuracy**: Achieved a high classification accuracy on test data.
+
 **Loss**: Minimized during training and validation.
 ![acc_and_loss](https://github.com/user-attachments/assets/40a40c2a-da6e-416d-b47b-c634711da5ad)
 
@@ -61,3 +66,14 @@ The different layers used in this model are as follows:
 **Confusion Matrix**: Visualized for performance assessment across classes.
 ![confusion_matrix](https://github.com/user-attachments/assets/2298f37b-d018-486b-835c-94fa2a523e96)
 
+
+## **Metrics**
+| | Train | Validation | Test |
+| --- | --- | --- | --- |
+| Count of Records | 70,295 | 17,572 | 33 |
+| Categorical Cross-entropy | 0.1908 | 0.186 | - |
+| Categorical Accuracy | 93.70% | 93.91% | 93.93% |
+		
+			
+			
+			
