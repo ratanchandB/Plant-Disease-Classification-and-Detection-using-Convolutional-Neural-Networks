@@ -53,9 +53,9 @@ The different layers used in this model are as follows:
 ## Model Evaluation
 
 **Accuracy**: Achieved a high classification accuracy on test data.
-
 **Loss**: Minimized during training and validation.
 ![acc_and_loss](https://github.com/user-attachments/assets/40a40c2a-da6e-416d-b47b-c634711da5ad)
+
 
 
 **Confusion Matrix**: Visualized for performance assessment across classes.
