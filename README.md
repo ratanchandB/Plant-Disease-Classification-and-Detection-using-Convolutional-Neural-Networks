@@ -25,12 +25,19 @@ The model employs a deep CNN with skip connections for improved performance. Key
 The different layers used in this model are as follows:
 
 **1. Input**
+
 **2. Depthwise Convolution 2D**
+
 **3. Convolution 2D**
+
 **4. Max Pooling 2D**
+
 **5. Global Average Pooling 2D**
+
 **6. Concatenation**
+
 **7. Dropout**
+
 **8. Dense**
 
 ### Callbacks
