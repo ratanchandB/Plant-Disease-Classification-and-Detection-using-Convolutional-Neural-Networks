@@ -18,7 +18,7 @@ The project uses the New Plant Diseases Dataset from Kaggle. This dataset compri
 
 **NumPy and Pandas**: For data handling and preprocessing.
 
-**Matplotlib and Seaborn**: For visualizing data distribution and model performance.
+**Matplotlib**: For visualizing data distribution and model performance.
 
 **Jupyter Notebook**: Interactive environment for coding and documenting results.
 
