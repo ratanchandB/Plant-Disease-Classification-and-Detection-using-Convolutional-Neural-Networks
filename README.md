@@ -77,17 +77,19 @@ The different layers used in this model are as follows:
 
 ## Update Dataset Path
 
-Locate the following line in the code:
+- Locate the following line in the code:
 
 BASE_DIR = r"C:\Users\chand\OneDrive\Desktop\LU CS\Fall 2024\Graduate_Project\Execution\DataSet\New Plant Diseases Dataset(Augmented)"
 
-Replace the BASE_DIR value with the path to the dataset on your local machine. For example:
+- Replace the BASE_DIR value with the path to the dataset on your local machine. For example:
 
 BASE_DIR = r"<your_dataset_path_here>"
 
-Example
+- Example
 
 If your dataset is stored in D:\Projects\Plant_Disease_Dataset, update the code as follows:
+
+BASE_DIR = r"D:\Projects\Plant_Disease_Dataset"
 			
 			
 			
