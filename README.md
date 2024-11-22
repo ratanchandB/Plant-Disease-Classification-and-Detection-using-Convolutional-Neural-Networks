@@ -43,12 +43,21 @@ The different layers used in this model are as follows:
 ### Callbacks
 
 **Early Stopping**: Prevents overfitting by halting training when validation performance stops improving.
+
 **TensorBoard**: Tracks training metrics for analysis.
+
+**Structure**
+![model](https://github.com/user-attachments/assets/e7c98079-1f11-4d34-bbcc-f8dfe201f839)
+
 
 ## Model Evaluation
 
-Accuracy: Achieved a high classification accuracy on test data.
+**Accuracy**: Achieved a high classification accuracy on test data.
 
-Loss: Minimized during training and validation.
+**Loss**: Minimized during training and validation.
+![acc_and_loss](https://github.com/user-attachments/assets/40a40c2a-da6e-416d-b47b-c634711da5ad)
 
-Confusion Matrix: Visualized for performance assessment across classes.
+
+**Confusion Matrix**: Visualized for performance assessment across classes.
+![confusion_matrix](https://github.com/user-attachments/assets/2298f37b-d018-486b-835c-94fa2a523e96)
+
